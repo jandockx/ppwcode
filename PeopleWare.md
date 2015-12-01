@@ -1,0 +1,1 @@
+[PeopleWare](http://www.peopleware.be/) is the software company that owns this project. [PeopleWare](http://www.peopleware.be/) is located in Belgium.
